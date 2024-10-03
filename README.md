@@ -7,20 +7,21 @@ Soy un entusiasta de la **programación** y la **ciberseguridad**. Me encanta ap
 
 ## 🌱 Actualmente estoy aprendiendo
 - **Python**: Para automatización y análisis de datos.
-- **Ciberseguridad**: Principios básicos, herramientas y técnicas.
-- **Desarrollo Web**: HTML, CSS y JavaScript para crear aplicaciones interactivas.
+- **Ciberseguridad**: Temario avanzado, herramientas actuales y vulnerabilidades.
+- **Desarrollo Web**: HTML, CSS, JavaScript, React entre muchos otros para crear aplicaciones web.
 
 ## ⚡ Datos curiosos
 - ¡Me apasionan los animes de suspenso! Mi favorito es **Death Note**.
 - Disfruto resolver acertijos y participar en **CTF (Capture The Flag)** de ciberseguridad.
 
 ## 📫 Conéctate conmigo
-- [LinkedIn](tu-linkedin)
-- [Twitter](tu-twitter)
-- [Email](tu-email)
+- [LinkedIn](https://www.linkedin.com/in/frank-agustin-619225252/)
+- [Instagram](https://instagram.com/sav.10101)
 
-## Proyectos destacados
-- [Proyecto 1](enlace-a-tu-proyecto): Breve descripción del proyecto.
-- [Proyecto 2](enlace-a-tu-proyecto): Breve descripción del proyecto.
+## ☕ Doname un café
+Si te gusta mi trabajo y quieres apoyarme, podes invitarme a un café!
+
+[![Dame un café](https://cafe.donaciones.com/img/button.svg)](https://cafecito.app/tu-usuario)
+
 
 ¡Gracias por visitar mi perfil! 🚀
