@@ -21,7 +21,6 @@ Soy un entusiasta de la **programación** y la **ciberseguridad**. Me encanta ap
 ## ☕ Doname un café
 Si te gusta mi trabajo y quieres apoyarme, podes invitarme a un café!
 
-[![Dame un café](https://cafe.donaciones.com/img/button.svg)](https://cafecito.app/tu-usuario)
-
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/)
 
 ¡Gracias por visitar mi perfil! 🚀
