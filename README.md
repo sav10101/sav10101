@@ -1,26 +1,26 @@
-# 👋 Hola, soy @sav10101
+# 👋 Hi, I'm @sav10101
 
 ![Giphy](https://media.giphy.com/media/YmZOBDYBcmWK4/giphy.gif)
 
-## 👀 Intereses
-Soy un entusiasta de la **programación** y la **ciberseguridad**. Me encanta aprender sobre nuevas tecnologías y cómo proteger la información en un mundo digital en constante evolución.
+## 👀 About Me
+I am an enthusiast of **programming** and **cybersecurity**. I love learning about new technologies and how to protect information in an ever-evolving digital world.
 
-## 🌱 Actualmente estoy aprendiendo
-- **Python**: Para automatización y análisis de datos.
-- **Ciberseguridad**: Temario avanzado, herramientas actuales y vulnerabilidades.
-- **Desarrollo Web**: HTML, CSS, JavaScript, React entre muchos otros para crear aplicaciones web.
+## 🌱 Currently Learning
+- **Python**: For automation and data analysis.
+- **Cybersecurity**: Advanced topics, current tools, and vulnerabilities.
+- **Web Development**: HTML, CSS, JavaScript, React, among others to create web applications.
 
-## ⚡ Sobre mi persona
-- ¡Me apasionan los animes de suspenso! Mi favorito es **Death Note**.
-- Disfruto resolver acertijos y participar en **CTF (Capture The Flag)** de ciberseguridad.
+## ⚡ My Fun
+- I am passionate about suspense anime! My favorite is **Death Note**.
+- I enjoy solving puzzles and participating in **CTF (Capture The Flag)** competitions in cybersecurity.
 
-## 📫 Conéctate conmigo
+## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/frank-agustin-619225252/)
 - [Instagram](https://instagram.com/sav.10101)
 
-## ☕ Doname un café
-Si te gusta mi trabajo y quieres apoyarme, podes invitarme a un café!
+## ☕ Buy Me a Coffee
+If you like my work and want to support me, you can buy me a coffee!
 
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/)
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tu-usuario)
 
-¡Gracias por visitar mi perfil! 🚀
+Thank you for visiting my profile, Happy Coding/Hacking ! 🚀😈
