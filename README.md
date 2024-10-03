@@ -10,7 +10,7 @@ Soy un entusiasta de la **programación** y la **ciberseguridad**. Me encanta ap
 - **Ciberseguridad**: Temario avanzado, herramientas actuales y vulnerabilidades.
 - **Desarrollo Web**: HTML, CSS, JavaScript, React entre muchos otros para crear aplicaciones web.
 
-## ⚡ Datos curiosos
+## ⚡ Sobre mi persona
 - ¡Me apasionan los animes de suspenso! Mi favorito es **Death Note**.
 - Disfruto resolver acertijos y participar en **CTF (Capture The Flag)** de ciberseguridad.
 
