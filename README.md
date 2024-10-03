@@ -1,6 +1,6 @@
 # 👋 Hola, soy @sav10101
 
-![Giphy](https://giphy.com/embed/YmZOBDYBcmWK4)
+![Giphy](https://media.giphy.com/media/YmZOBDYBcmWK4/giphy.gif)
 
 ## 👀 Intereses
 Soy un entusiasta de la **programación** y la **ciberseguridad**. Me encanta aprender sobre nuevas tecnologías y cómo proteger la información en un mundo digital en constante evolución.
