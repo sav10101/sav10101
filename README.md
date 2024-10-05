@@ -12,7 +12,7 @@ I am an enthusiast of **programming** and **cybersecurity**. I love learning abo
 
 ## ⚡ My Fun
 - I am passionate about suspense anime! My favorite is **Death Note**.
-- I enjoy solving puzzles and participating in **CTF (Capture The Flag)** competitions in cybersecurity.
+- I enjoy solving puzzles in **CTF (Capture The Flag)**.
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/frank-agustin-619225252/)
