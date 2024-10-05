@@ -6,7 +6,7 @@
 I am an enthusiast of **programming** and **cybersecurity**. I love learning about new technologies and how to protect information in an ever-evolving digital world.
 
 ## 🌱 Currently Learning
-- **Python**: For automation and data analysis.
+- **Python**: For automation and scraping
 - **Cybersecurity**: Advanced topics, current tools, and vulnerabilities.
 - **Web Development**: HTML, Tailwind, JavaScript, React, among others to create web applications.
 
