@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @sav10101
+# 👋 Hello world, I'm @sav10101
 
 ![Giphy](https://media.giphy.com/media/YmZOBDYBcmWK4/giphy.gif)
 
