@@ -8,7 +8,7 @@ I am an enthusiast of **programming** and **cybersecurity**. I love learning abo
 ## 🌱 Currently Learning
 - **Python**: For automation and data analysis.
 - **Cybersecurity**: Advanced topics, current tools, and vulnerabilities.
-- **Web Development**: HTML, CSS, JavaScript, React, among others to create web applications.
+- **Web Development**: HTML, Tailwind, JavaScript, React, among others to create web applications.
 
 ## ⚡ My Fun
 - I am passionate about suspense anime! My favorite is **Death Note**.
