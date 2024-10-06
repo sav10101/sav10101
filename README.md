@@ -6,9 +6,9 @@
 I am an enthusiast of **programming** and **cybersecurity**. I love learning about new technologies and how to protect information in an ever-evolving digital world.
 
 ## 🌱 Currently Learning
-- **Python**: For automation and scraping
+- **Python**: For scraping
 - **Cybersecurity**: Advanced topics, current tools, and vulnerabilities.
-- **Web Development**: MEVN Stack, among others to create web applications.
+- **Web Development**: MEVN Stack, among others to create web apps.
 
 ## ⚡ My Fun
 - I am passionate about suspense anime! My favorite is **Death Note**.
