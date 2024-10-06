@@ -5,6 +5,15 @@
 ## 👀 About Me
 I am an enthusiast of **programming** and **cybersecurity**. I love learning about new technologies and how to protect information in an ever-evolving digital world.
 
+## 💎 Skills
+<p>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"></a>
+  <a href="https://www.html5.com/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></a>
+</p>
+
 ## 🌱 Currently Learning
 - **Python**: For scraping
 - **Cybersecurity**: Advanced topics, current tools, and vulnerabilities.
