@@ -1,6 +1,6 @@
 # 👋 Hello world, I'm @sav10101
 
-![Giphy](https://media.giphy.com/media/YmZOBDYBcmWK4/giphy.gif)
+https://github.com/user-attachments/assets/dcffb6e5-89c3-41d1-bb79-6c7b71eefeeb
 
 ## 👀 About Me
 I am an enthusiast of **programming** and **cybersecurity**. I love learning about new technologies and how to protect information in an ever-evolving digital world.
