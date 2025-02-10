@@ -1,4 +1,4 @@
-# 👋 Hello world, I'm @sav10101
+# 👋 Hello world, I'm @frankoperez
 
 https://github.com/user-attachments/assets/dcffb6e5-89c3-41d1-bb79-6c7b71eefeeb
 
@@ -24,14 +24,5 @@ I am an enthusiast of **programming** and **cybersecurity**. I love learning abo
 ## ⚡ My Fun
 - I am passionate about suspense anime! My favorite is **Death Note**.
 - I enjoy solving puzzles in **CTF (Capture The Flag)**.
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/frank-agustin-619225252/)
-- [Instagram](https://instagram.com/sav.10101)
-
-## ☕ Support me
-If you like my work and want to support me, you can buy me a coffee!
-
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tu-usuario)
 
 Thank you for visiting my profile, Happy Coding/Hacking ! 🚀😈
